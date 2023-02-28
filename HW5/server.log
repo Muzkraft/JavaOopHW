@@ -1,0 +1,7 @@
+org.example.ServerApp::main::Tue Feb 28 20:24:02 PKT 2023::Сервер запущен, ожидаем соединение....
+org.example.ServerApp::main::Tue Feb 28 20:24:08 PKT 2023::Клиент подключился к серверу!
+org.example.ServerApp::main::Tue Feb 28 20:24:11 PKT 2023::pow(2, 4) * 3 * ( 25 / 5 + 7) - -5 + 3 * min(2, 6, 4, -3)
+org.example.ServerApp::main::Tue Feb 28 20:24:11 PKT 2023::572
+org.example.ServerApp::main::Tue Feb 28 20:24:12 PKT 2023::
+org.example.ServerApp::main::Tue Feb 28 20:24:12 PKT 2023::0
+org.example.ServerApp::main::Tue Feb 28 20:26:12 PKT 2023::null
